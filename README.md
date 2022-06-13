@@ -77,7 +77,8 @@ Pull requests are **welcome**. For major changes, please open an issue first to 
 Note : Please make sure to update tests as appropriate.
 
 # Others <a name="others"></a>
-- [Presentation Document](https://docs.google.com/presentation/d/17P2oUqvp4PCbyA4rk91go3KFv-uYluLv/edit?usp=sharing&ouid=116758418375247377982&rtpof=true&sd=true)
+- [Document Presentation](https://docs.google.com/presentation/d/17P2oUqvp4PCbyA4rk91go3KFv-uYluLv/edit?usp=sharing&ouid=116758418375247377982&rtpof=true&sd=true)
+- [Video Presentation](https://youtu.be/Iz_Qe-HRBkQ)
 
 # Contact <a name="contact"></a>
 - Muhammad Rafi Nashrullah - muh.rafi.nash80@gmail.com
